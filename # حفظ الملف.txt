@@ -1,0 +1,2 @@
+# حفظ الملف
+pdf.output("Almedkhal_ila_al_i'lam_al_hadith.pdf")
