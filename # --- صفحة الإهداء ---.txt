@@ -1,0 +1,7 @@
+# --- صفحة الإهداء ---
+pdf.add_page()
+pdf.set_font('Amiri', 'B', 16)
+pdf.cell(0, 10, "الإهداء", ln=True, align='C')
+pdf.ln(10)
+pdf.set_font('Amiri', '', 14)
+pdf.multi_cell(0, 10, "إلى كل من يسعى للمعرفة والإبداع، ولكل القلوب الطامحة في صناعة إعلام عربي محترف.")
